@@ -1,0 +1,143 @@
+{
+ "drawing": "Modules/SUMMING/M473/SCHEMATICS/1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/580edb7f783be420.svg",
+ "sheet": {
+  "number": "B 473-02-003",
+  "title": "M473B / STEREO SUBMASTER MODULE / SCHEMATIC",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, -0.2, 335.0, 431.2],
+ "outlines": {
+  "line": {"rings": 304, "straight": {"n": 6319, "mm": 6705.4}, "curved": {"n": 842, "mm": 1081.2}},
+  "text": {"rings": 377, "straight": {"n": 5821, "mm": 5761.2}, "curved": {"n": 1303, "mm": 1806.0}},
+  "tb": {"rings": 55, "straight": {"n": 536, "mm": 526.1}, "curved": {"n": 86, "mm": 95.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4451, "straight": {"n": 4620, "mm": 3137.1}, "curved": {"n": 14, "mm": 16.9}},
+   "text": {"paths": 6219, "straight": {"n": 7297, "mm": 4939.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 921, "straight": {"n": 992, "mm": 1549.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 95,
+  "orientation": {"horizontal": {"n": 3404, "mm": 3221.8}, "vertical": {"n": 3306, "mm": 2163.0}, "diagonal": {"n": 6199, "mm": 4241.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [3.3, 147.1], "r": 3.3, "kind": "arc", "span": 75, "from": ["centre line"], "start": 7},
+  {"c": [5.5, 160.5], "r": 1.9, "kind": "arc", "span": 235, "from": ["centre line"], "start": 113},
+  {"c": [6.4, 33.8], "r": 1.0, "kind": "arc", "span": 169, "from": ["centre line"], "start": 265},
+  {"c": [0.4, 15.6], "r": 0.8, "kind": "arc", "span": 163, "from": ["centre line"], "start": 90}
+ ],
+ "boxes": [
+  {"mm": [218.1, 104.3, 316.7, 115.3], "w": 98.7, "h": 11.0, "from": "ring", "words": ["{8AND Z CHANGED", "PINS"]},
+  {"mm": [177.7, 104.1, 197.1, 114.4], "w": 19.4, "h": 10.3, "from": "ring"},
+  {"mm": [198.0, 94.3, 217.4, 103.4], "w": 19.4, "h": 9.1, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [177.7, 94.1, 197.3, 103.3], "w": 19.6, "h": 9.1, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [198.5, 6.0, 297.3, 26.1], "w": 98.8, "h": 20.1, "from": "ring", "words": ["473-02-003"]},
+  {"mm": [128.4, 5.5, 177.3, 25.0], "w": 48.8, "h": 19.5, "from": "ring", "words": ["SCALE"]}
+ ],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [0.0, 399.8, 7.8, 414.2], "text": "74"},
+   {"mm": [29.1, 393.6, 46.6, 401.3], "text": "Sub"},
+   {"mm": [30.0, 385.6, 60.5, 393.0], "text": "DIRECT"},
+   {"mm": [0.0, 370.1, 68.0, 385.4], "text": "75 OUTPUTS"},
+   {"mm": [30.0, 368.3, 89.0, 378.4], "text": "+8dBm, 6002"},
+   {"mm": [30.2, 302.3, 82.3, 309.7], "text": "M1 OUTPUT"},
+   {"mm": [14.9, 252.4, 26.8, 259.6], "text": "MI"},
+   {"mm": [30.2, 252.4, 72.5, 260.3], "text": "CONTROL"},
+   {"mm": [107.3, 223.5, 150.5, 230.7], "text": "SUMMING"},
+   {"mm": [119.4, 215.7, 136.7, 223.4], "text": "BUS"},
+   {"mm": [108.4, 207.7, 146.4, 214.9], "text": "OUTPUTS"},
+   {"mm": [31.5, 191.1, 46.2, 198.3], "text": "Me"},
+   {"mm": [49.2, 191.1, 84.0, 199.0], "text": "OUTPUT"},
+   {"mm": [15.8, 143.1, 30.0, 150.3], "text": "Me"},
+   {"mm": [34.3, 143.1, 76.4, 150.6], "text": "CONTROL"},
+   {"mm": [196.0, 104.9, 238.4, 113.3], "text": "vo/e4 PINS"},
+   {"mm": [240.7, 106.7, 306.6, 114.1], "text": "{8AND Z CHANGED"},
+   {"mm": [254.1, 96.1, 282.6, 102.3], "text": "REVISION"},
+   {"mm": [320.6, 96.9, 332.9, 102.9], "text": "APP"},
+   {"mm": [178.3, 95.2, 216.1, 101.4], "text": "ISSUE DATE"},
+   {"mm": [32.8, 82.9, 92.6, 90.6], "text": "SoLO OUTPUT"},
+   {"mm": [141.8, 73.6, 188.9, 84.7], "text": "WBS"},
+   {"mm": [203.6, 75.3, 272.5, 84.9], "text": "WARD-BECK"},
+   {"mm": [274.8, 76.0, 329.2, 85.6], "text": "SYSTEMS"},
+   {"mm": [129.3, 56.8, 176.8, 65.2], "text": "DRN: J/7ke4"},
+   {"mm": [239.6, 52.5, 277.2, 63.7], "text": "M473B"},
+   {"mm": [129.5, 47.1, 142.7, 53.3], "text": "ENG"},
+   {"mm": [183.1, 39.5, 332.7, 52.5], "text": "STEREO SUBMASTER MODULE"},
+   {"mm": [15.3, 35.0, 35.8, 42.2], "text": "SoLO"},
+   {"mm": [39.1, 35.2, 79.0, 42.4], "text": "CONTROL"},
+   {"mm": [129.5, 37.1, 144.2, 43.4], "text": "CKD"},
+   {"mm": [226.3, 27.4, 291.0, 39.4], "text": "SCHEMATIC"},
+   {"mm": [130.4, 27.2, 143.1, 33.2], "text": "APP"},
+   {"mm": [142.3, 8.9, 197.8, 24.4], "text": "SCALE LB"},
+   {"mm": [308.3, 19.2, 326.4, 25.5], "text": "ISSUE"},
+   {"mm": [215.3, 9.7, 283.3, 21.7], "text": "473-02-003"}
+  ],
+  "scale": "LB"
+ },
+ "title_block": {
+  "mm": [122.7, 9.4, 335.5, 111.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "vo/e4 PINS",
+   "{8AND Z CHANGED",
+   "REVISION",
+   "APP",
+   "ISSUE DATE",
+   "WBS",
+   "WARD-BECK",
+   "SYSTEMS",
+   "DRN: J/7ke4",
+   "M473B",
+   "ENG",
+   "STEREO SUBMASTER MODULE",
+   "CKD",
+   "SCHEMATIC",
+   "APP",
+   "SCALE LB",
+   "ISSUE",
+   "473-02-003"
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 9,
+  "wire_runs": 120,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 143.2, "runs": 6, "ends": 3, "bbox": [177.3, 109.5, 316.7, 115.9], "labels": ["{8AND Z CHANGED", "vo/e4", "ISSUE", "DATE"]},
+   {"mm": 65.2, "runs": 3, "ends": 2, "bbox": [24.4, 274.6, 25.0, 339.8], "labels": []},
+   {"mm": 65.2, "runs": 3, "ends": 2, "bbox": [25.3, 163.2, 25.7, 228.4], "labels": []},
+   {"mm": 47.7, "runs": 1, "ends": 2, "bbox": [24.2, 363.8, 24.4, 411.5], "labels": ["74", "Sub", "75", "+8dBm, 6002"]},
+   {"mm": 33.2, "runs": 1, "ends": 2, "bbox": [25.9, 87.2, 25.9, 120.5], "labels": ["SoLO"]},
+   {"mm": 29.6, "runs": 3, "ends": 2, "bbox": [26.1, 53.5, 26.6, 83.1], "labels": ["SoLO"]},
+   {"mm": 14.5, "runs": 1, "ends": 2, "bbox": [319.5, 115.9, 334.0, 115.9], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [0.4, 147.0, 6.3, 147.5], "labels": ["Me"]},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [0.2, 166.7, 5.6, 166.7], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic B 473-02-003, size B 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px); scale LB",
+  "- **Ink extent:** 0–335 mm across, 0–431 mm up",
+  "- **Outlines:** line 304 rings, 6,319 straight (6,705 mm) / 842 curved (1,081 mm); text 377 rings, 5,821 straight (5,761 mm) / 1,303 curved (1,806 mm); tb 55 rings, 536 straight (526 mm) / 86 curved (95.3 mm)",
+  "- **Centre lines:** 11,591 paths (95 closed); straight 9,626 mm, curved 16.9 mm; horizontal 3,222 mm, vertical 2,163 mm, diagonal 4,242 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 6 (2 in the title block); named: {8AND Z CHANGED PINS; 473-02-003; SCALE",
+  "- **Words (OCR):** 42 in 36 lines: 74 · Sub · DIRECT · 75 OUTPUTS · +8dBm, 6002 · M1 OUTPUT · MI · CONTROL · SUMMING · BUS · OUTPUTS · Me",
+  "- **Title block:** (123, 9)–(336, 112) mm: vo/e4 PINS · {8AND Z CHANGED · REVISION · APP · ISSUE DATE · WBS · WARD-BECK · SYSTEMS · DRN: J/7ke4 · M473B · ENG · STEREO SUBMASTER MODULE · CKD · SCHEMATIC · APP · SCALE LB · ISSUE · 473-02-003",
+  "- **Wiring (first pass):** 9 connected wire groups from 120 runs; labelled ends: 143 mm → {8AND Z CHANGED, vo/e4, ISSUE, DATE; 48 mm → 74, Sub, 75, +8dBm, 6002; 33 mm → SoLO; 30 mm → SoLO; 6 mm → Me"
+ ]
+}
