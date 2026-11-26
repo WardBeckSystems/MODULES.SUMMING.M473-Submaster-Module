@@ -24,7 +24,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Words (OCR):** 118 in 80 lines: WBS · M473 · HSTER AssGNHENT · suitch SwL : · When depressed che · Shltch SHS : · Khen  depressed the · output Tgna · fed · {Unm |e resistors · the · output
 - **Title block:** (139, 0)–(328, 324) mm: WBS · M473 · Shltch SHS : · Khen  depressed the · output · sunming bus H2. · fed via · resistors · the · externa master · PRE · PST · LEVEL control · RL 2 # Controls leve · output bus · AUX · PRE · Le
 
-Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide p1 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20p1%20(traced).json) (the CAD file: `1984 - M473 - Submaster Module - User Guide p1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide p1 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20p1%20%28traced%29.json) (the CAD file: `1984 - M473 - Submaster Module - User Guide p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Gu
 - **Title block:** (280, 2)–(432, 79) mm: 10 /77 · CONTROLS MOdifiED · 2B_ · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN GEB · M473 · ENG RKB · SUB-MASTER MODULE · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 473-0
 - **Wiring (first pass):** 119 connected wire groups from 256 runs; labelled ends: 427 mm → DIRECT, #8dBm, TRim, 1092; 150 mm → PRElPost, SOLO; 107 mm → SOLO; 82 mm → 10 /77, 1/78, 109A (G), 2B_; 82 mm → ConTRoL, 1/78, 109A (G), 2B_
 
-Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide p2 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20p2%20(traced).json) (the CAD file: `1984 - M473 - Submaster Module - User Guide p2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide p2 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20p2%20%28traced%29.json) (the CAD file: `1984 - M473 - Submaster Module - User Guide p2 (traced).dxf`).
 
 ## Full text
 

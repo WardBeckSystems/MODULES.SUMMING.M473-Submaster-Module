@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 162 in 144 lines: 342 · Ro · Ri2 · ISk · Monitcr AND · METERING · 244401 · Pn3c45 · 03 · R4w5>t · 330/6 · 7>15
 - **Wiring (first pass):** 157 connected wire groups from 1,143 runs; labelled ends: 449 mm → MAAT L, Buge PB, AieP; 277 mm → 342, R4w5>t, 224, As; 268 mm → R4w5>t, VSTRR3o, R33, AmpliFiER; 248 mm → As, Swz, Solo; 225 mm → As, 470
 
-Every curve, box, word and wire group: [19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC (traced).dxf`).
 
 ## Full text
 

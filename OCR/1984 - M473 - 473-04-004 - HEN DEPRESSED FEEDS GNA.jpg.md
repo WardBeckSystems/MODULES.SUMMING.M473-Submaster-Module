@@ -22,7 +22,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Words (OCR):** 135 in 82 lines: W BS · M47] · MASTER · HASTER · output gna · fed · switch · suning resistors · Sh4 ; When depressed, · the · che · output
 - **Title block:** (216, 6)–(326, 68) mm: 9/77 · REDRAWN · ISSUE IDATE · REVISION · WBS WAAD-BECK systeMS · ENG; · M473 · CKD · SUBMA STER MODULE · ApP · FRONT · PANEL · SCALE · ISSUE · 473-04-004
 
-Every curve, box, word and wire group: [1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA (traced).json](../MECHANICAL/1984%20-%20M473%20-%20473-04-004%20-%20HEN%20DEPRESSED%20FEEDS%20GNA%20(traced).json) (the CAD file: `1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA (traced).json](../MECHANICAL/1984%20-%20M473%20-%20473-04-004%20-%20HEN%20DEPRESSED%20FEEDS%20GNA%20%28traced%29.json) (the CAD file: `1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA (traced).dxf`).
 
 ## Full text
 

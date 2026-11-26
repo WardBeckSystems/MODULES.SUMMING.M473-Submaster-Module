@@ -35,7 +35,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Title block:** (123, 9)–(336, 112) mm: vo/e4 PINS · {8AND Z CHANGED · REVISION · APP · ISSUE DATE · WBS · WARD-BECK · SYSTEMS · DRN: J/7ke4 · M473B · ENG · STEREO SUBMASTER MODULE · CKD · SCHEMATIC · APP · SCALE LB · ISSUE · 473-02-003
 - **Wiring (first pass):** 9 connected wire groups from 120 runs; labelled ends: 143 mm → {8AND Z CHANGED, vo/e4, ISSUE, DATE; 48 mm → 74, Sub, 75, +8dBm, 6002; 33 mm → SoLO; 30 mm → SoLO; 6 mm → Me
 
-Every curve, box, word and wire group: [1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2 (traced).json](../SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ISS%202%20(traced).json) (the CAD file: `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2 (traced).json](../SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2 (traced).dxf`).
 
 ## Full text
 

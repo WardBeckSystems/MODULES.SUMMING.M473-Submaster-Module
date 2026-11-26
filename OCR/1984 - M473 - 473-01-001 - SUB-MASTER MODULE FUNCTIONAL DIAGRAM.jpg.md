@@ -23,7 +23,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Title block:** (280, 2)–(432, 79) mm: 10 /77 · CONTROLS MODIFIED · 2B. · 10 / 77 · REDRAWN · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYsTEMS · DRN; GEB · M473 · ENG RKB · SUB-MASTER MODULE · CKD: · FUNCTIONAL DIAGRAM · APP · SCALE · 
 - **Wiring (first pass):** 118 connected wire groups from 271 runs; labelled ends: 343 mm → DIRECT OUTPut, +8dBm, TRIm, 1096; 170 mm → ConTROL, 1/78, 109A (G), 2B.; 141 mm → PRE/post, SOLO; 110 mm → SOLO; 64 mm → PRE/post, LEVEL
 
-Every curve, box, word and wire group: [1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1984%20-%20M473%20-%20473-01-001%20-%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1984%20-%20M473%20-%20473-01-001%20-%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

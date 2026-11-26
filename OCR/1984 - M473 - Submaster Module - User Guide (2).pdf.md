@@ -24,7 +24,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 154 in 96 lines: ",nu ~SSIG~ · SWIo · clop · nl G~Nl · lIe" SW5 · clepr UUd, · Ip~ · vI. · 1"1/ rulnor · htl · "'Hp.. · el
 
-Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide (2) p1 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20(2)%20p1%20(traced).json) (the CAD file: `1984 - M473 - Submaster Module - User Guide (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide (2) p1 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1984 - M473 - Submaster Module - User Guide (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Gu
 - **Title block:** (281, 2)–(432, 78) mm: 10/77 · CONTROL MODIFIED · 10/n · REDRAWN · ISSUE DATE · REVI SION · ca PP. · [\N8 · WARO-BECK SYS TEMS · BS · DRN GEB · MA · ENG. RK · SUB-MASTER · ODULE · CKD. · tp DIAGRAM · FUNCTI ONA · APP. · ht 
 - **Wiring (first pass):** 99 connected wire groups from 169 runs; labelled ends: 343 mm → DIR, TR; 95 mm → 10/77, 10/n, ca; 95 mm → 7/78, A(G, 10/77, 10/n; 92 mm → OL; 70 mm → TR, Ml, M2
 
-Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide (2) p2 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20(2)%20p2%20(traced).json) (the CAD file: `1984 - M473 - Submaster Module - User Guide (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M473 - Submaster Module - User Guide (2) p2 (traced).json](../MANUALS/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1984 - M473 - Submaster Module - User Guide (2) p2 (traced).dxf`).
 
 ## Full text
 

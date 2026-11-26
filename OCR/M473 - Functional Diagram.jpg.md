@@ -15,6 +15,20 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Size:** 74,151 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 285 mm, 900 × 594 px traced (0.480 mm/px)
+- **Ink extent:** 21–432 mm across, 0–282 mm up
+- **Outlines:** line 344 rings, 2,694 straight (10,168 mm) / 441 curved (1,134 mm); text 151 rings, 902 straight (1,679 mm) / 304 curved (800 mm); tb 24 rings, 193 straight (460 mm) / 44 curved (119 mm)
+- **Centre lines:** 3,643 paths (78 closed); straight 6,816 mm, curved 43.1 mm; horizontal 2,878 mm, vertical 1,604 mm, diagonal 2,334 mm
+- **Circles and arcs:** 0 circles, 4 arcs
+- **Closed boxes:** 38 (9 in the title block); named: COATROLS
+- **Words (OCR):** 33 in 31 lines: Monitor · DIRECT outPuT · 00 _ · MASTER · suhming · Isdu} . · CONTROL · SUB · PreiPost · ~coNtROL] · contrOl · SUMMing
+- **Title block:** (280, 2)–(432, 71) mm: DATE · WBS WARD-BECK SYSTEMS · ENG · SUB-MASTER MODULE · M473 · CKD; · FUNCTIONAL · DLAGRAM · SCALE · 473-01-001
+- **Wiring (first pass):** 112 connected wire groups from 316 runs; labelled ends: 340 mm → DIRECT, PreiPost; 135 mm → S0LO; 109 mm → CONTROL, SOLO; 40 mm → IRPUT; 37 mm → S0LO, SOLO
+
+Every curve, box, word and wire group: [M473 - Functional Diagram (traced).json](../SCHEMATICS/M473%20-%20Functional%20Diagram%20%28traced%29.json) (the CAD file: `M473 - Functional Diagram (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)

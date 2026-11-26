@@ -36,7 +36,7 @@ Wiki page: [M473](../../../../PAGES/M473.md)
 - **Title block:** (353, 3)–(432, 32) mm: IDATL · WBS WARO-BeCK systems · DRN~hed · M4738 · STEREO SUBMASTER MODULE · SCHEMATIC · Scale LBI 473-02 003
 - **Wiring (first pass):** 90 connected wire groups from 637 runs; labelled ends: 80 mm → IDATL, WBS; 71 mm → {88; 42 mm → {88; 42 mm → IDATL, WBS; 42 mm → IDATL, WARO-BeCK systems
 
-Every curve, box, word and wire group: [1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 (traced).json](../SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203%20(traced).json) (the CAD file: `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 (traced).json](../SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 (traced).dxf`).
 
 ## Full text
 
