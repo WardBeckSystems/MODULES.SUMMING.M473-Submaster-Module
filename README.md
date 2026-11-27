@@ -13,6 +13,12 @@ Ward-Beck Systems M473, 1977|10. Wiki page: [M473 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [9 topics](FORUM.md): what owners and technicians said about it.
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
