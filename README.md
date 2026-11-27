@@ -1,17 +1,17 @@
-# M473 · Summing
+# M473 Submaster Module · Summing
 
 Ward-Beck Systems M473, 1977|10. Wiki page: [M473 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M473.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 31 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 20 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 21 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 21 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -27,8 +27,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYXQ1Y1R6YWFFQ2M/view?resourcekey=0--cFcFkkZB3inJBrYKHXmQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYXQ1Y1R6YWFFQ2M&resourcekey=0--cFcFkkZB3inJBrYKHXmQg" width="240" alt="1984 - M473 - M473_1.jpg"></a><br><sub>1984|17 · M473_1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRnFKVVpDc0hla2c/view?resourcekey=0-zHI5HXApwAk8zSA9I1-0fA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRnFKVVpDc0hla2c&resourcekey=0-zHI5HXApwAk8zSA9I1-0fA" width="240" alt="1984 - M473 - sub group modules.jpg"></a><br><sub>1984|17 · sub group modules</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1984|17 · M473_1_small](https://drive.google.com/file/d/0B0yR0b5T78SKYjRua3hxUGhVNEU/view?resourcekey=0-pAg1v-iqguGlZtgGf8N_lg) · [1984|17 · sub group modules_small](https://drive.google.com/file/d/0B0yR0b5T78SKbGdZYlR4UXhocDA/view?resourcekey=0-DWvWP3lmtmsyF6d_jpNwKQ) · [1984|17 · wbsps - module - m473 sub group modules 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKem9kY0dVRW13ME0/view?resourcekey=0-yi9v9YmbiEpLTYvV-hj6zA) · [1984|17 · wbsps - module - m473 sub group modules 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKMUxnUHNLaEhJc0E/view?resourcekey=0-YER51WmbiiBzGkeLUCJFMw)
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -42,8 +40,7 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDVDY00yWG1ZUTA/view?resourcekey=0-whKWXruMJq8jxv7Tev2rCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWDVDY00yWG1ZUTA&resourcekey=0-whKWXruMJq8jxv7Tev2rCA" width="240" alt="1977 - M473 - DOC - 77038-01-002 - MMEN OTONALI INE.jpg"></a><br><sub>1977|10 · DOC - 77038-01-002 - MMEN OTONALI INE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ" width="240" alt="1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3.jpg"></a><br><sub>1984|17 · 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 · <a href="SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3ZNUjlFeXFKNk0/view?resourcekey=0-zOEnPPyYEU-L8pdmdBXgrg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3ZNUjlFeXFKNk0&resourcekey=0-zOEnPPyYEU-L8pdmdBXgrg" width="240" alt="1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM.jpg"></a><br><sub>1984|17 · 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM · <a href="SCHEMATICS/1984%20-%20M473%20-%20473-01-001%20-%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy" width="240" alt="19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC.jpg"></a><br><sub>19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDVDY00yWG1ZUTA/view?resourcekey=0-whKWXruMJq8jxv7Tev2rCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWDVDY00yWG1ZUTA&resourcekey=0-whKWXruMJq8jxv7Tev2rCA" width="240" alt="1977 - M473 - DOC - 77038-01-002 - MMEN OTONALI INE.jpg"></a><br><sub>1977|10 · DOC - 77038-01-002 - MMEN OTONALI INE · <a href="SCHEMATICS/1977%20-%20M473%20-%20DOC%20-%2077038-01-002%20-%20MMEN%20OTONALI%20INE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ" width="240" alt="1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3.jpg"></a><br><sub>1984|17 · 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 · <a href="SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy" width="240" alt="19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC.jpg"></a><br><sub>19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1978 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.jpg`, `1978 - 473-01-002 - M473A SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.jpg`, `1984 - 473-01-003 - M473B STEREO SUBMASTER MODULE FUNCTIONAL - DRN JP - ISS 1.jpg`, `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2.jpg`, `M473 - Functional Diagram.jpg`
@@ -93,6 +90,7 @@ Not on Google Drive yet: `19xx - M473 - DOC - ENG Info Memorandum #31 a.jpg`
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1977 - M473 - DOC - 77038-01-002 - MMEN OTONALI INE.kicad_sch](KICAD/1977%20-%20M473%20-%20DOC%20-%2077038-01-002%20-%20MMEN%20OTONALI%20INE.kicad_sch)
 - [1978 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.kicad_sch](KICAD/1978%20-%20473-01-001%20-%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%204.kicad_sch)
 - [1978 - 473-01-002 - M473A SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.kicad_sch](KICAD/1978%20-%20473-01-002%20-%20M473A%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%204.kicad_sch)
 - [1984 - 473-01-003 - M473B STEREO SUBMASTER MODULE FUNCTIONAL - DRN JP - ISS 1.kicad_sch](KICAD/1984%20-%20473-01-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20FUNCTIONAL%20-%20DRN%20JP%20-%20ISS%201.kicad_sch)
@@ -101,7 +99,14 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1984 - M473 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM.kicad_sch](KICAD/1984%20-%20M473%20-%20473-01-001%20-%20SUB-MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM.kicad_sch)
 - [1984 - M473 - Submaster Module - User Guide (2) p2.kicad_sch](KICAD/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20(2)%20p2.kicad_sch)
 - [1984 - M473 - Submaster Module - User Guide p2.kicad_sch](KICAD/1984%20-%20M473%20-%20Submaster%20Module%20-%20User%20Guide%20p2.kicad_sch)
+- [19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC.kicad_sch)
+- [M473 - Functional Diagram.kicad_sch](KICAD/M473%20-%20Functional%20Diagram.kicad_sch)
 - [M473.kicad_sym](KICAD/M473.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
