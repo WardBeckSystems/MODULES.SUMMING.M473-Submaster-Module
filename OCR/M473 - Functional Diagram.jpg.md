@@ -1,5 +1,5 @@
 # M473 - Functional Diagram.jpg
-Wiki page: [M473](../../../../PAGES/M473.md)
+Wiki page: [M473](../)
 
 
 - **Year:** unknown (title block (read by eye))

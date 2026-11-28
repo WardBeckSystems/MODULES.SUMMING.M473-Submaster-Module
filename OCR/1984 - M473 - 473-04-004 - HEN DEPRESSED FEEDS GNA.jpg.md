@@ -1,5 +1,5 @@
 # 1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA.jpg
-Wiki page: [M473](../../../../PAGES/M473.md)
+Wiki page: [M473](../)
 
 
 - **Year:** 1984 (module estimate (numeric))

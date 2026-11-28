@@ -1,5 +1,5 @@
 # 1984 - M473 - Submaster Module - User Guide (2).pdf
-Wiki page: [M473](../../../../PAGES/M473.md)
+Wiki page: [M473](../)
 
 
 - **Year:** 1984 (module estimate (numeric))

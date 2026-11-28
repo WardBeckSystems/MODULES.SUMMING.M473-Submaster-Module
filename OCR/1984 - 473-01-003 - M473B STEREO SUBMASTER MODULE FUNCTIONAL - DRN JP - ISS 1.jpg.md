@@ -1,5 +1,5 @@
 # 1984 - 473-01-003 - M473B STEREO SUBMASTER MODULE FUNCTIONAL - DRN JP - ISS 1.jpg
-Wiki page: [M473](../../../../PAGES/M473.md)
+Wiki page: [M473](../)
 
 
 - **Year:** 1984 (title block date)

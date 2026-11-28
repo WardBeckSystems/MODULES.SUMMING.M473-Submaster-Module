@@ -1,5 +1,5 @@
 # 1978 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.jpg
-Wiki page: [M473](../../../../PAGES/M473.md)
+Wiki page: [M473](../)
 
 
 - **Year:** 1978 (title block date)

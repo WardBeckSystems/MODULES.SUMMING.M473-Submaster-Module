@@ -1,6 +1,6 @@
 # M473 Submaster Module · Summing
 
-Ward-Beck Systems M473, 1977|10. Wiki page: [M473 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M473.html)
+Ward-Beck Systems M473, 1977|10. Wiki page: [M473 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M473-Submaster-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
