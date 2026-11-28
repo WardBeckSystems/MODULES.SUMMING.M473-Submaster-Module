@@ -4,13 +4,12 @@ Ward-Beck Systems M473, 1977|10. Wiki page: [M473 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 21 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 35 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 20 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 21 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -52,13 +51,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDVDY00yWG1ZUTA/view?resourcekey=0-whKWXruMJq8jxv7Tev2rCA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWDVDY00yWG1ZUTA&resourcekey=0-whKWXruMJq8jxv7Tev2rCA" width="240" alt="1977 - M473 - DOC - 77038-01-002 - MMEN OTONALI INE.jpg"></a><br><sub>1977|10 · DOC - 77038-01-002 - MMEN OTONALI INE · <a href="SCHEMATICS/1977%20-%20M473%20-%20DOC%20-%2077038-01-002%20-%20MMEN%20OTONALI%20INE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1w3CeHonfkeOClSFFZqrD5KpbXfWIHhBQ" width="240" alt="1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3.jpg"></a><br><sub>1984|17 · 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JF - ISS 3 · <a href="SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1af0zoMH7tqFAatSa6PKfCbU6nZb6mqDy" width="240" alt="19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC.jpg"></a><br><sub>19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.jpg`, `1978 - 473-01-002 - M473A SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4.jpg`, `1984 - 473-01-003 - M473B STEREO SUBMASTER MODULE FUNCTIONAL - DRN JP - ISS 1.jpg`, `1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2.jpg`, `M473 - Functional Diagram.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M473 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -93,8 +88,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZzU5S3owVE1UdWM/view?resourcekey=0-LPjgcvMP4PiETfpcI_m6lg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZzU5S3owVE1UdWM&resourcekey=0-LPjgcvMP4PiETfpcI_m6lg" width="240" alt="19xx - M473 - DOC - STEREO L SERIES - P005.jpg"></a><br><sub>19xx - M473 - DOC - STEREO L SERIES - P005</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M473 - DOC - ENG Info Memorandum #31 a.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -111,7 +104,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M473 - DOC - 473-02-001 - DAYE JUNE SUB MASTER MODULE CKDA SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M473%20-%20DOC%20-%20473-02-001%20-%20DAYE%20JUNE%20SUB%20MASTER%20MODULE%20CKDA%20SCHEMATIC.kicad_sch)
 - [M473 - Functional Diagram.kicad_sch](KICAD/M473%20-%20Functional%20Diagram.kicad_sch)
 - [M473.kicad_sym](KICAD/M473.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
